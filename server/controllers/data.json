@@ -1,0 +1,17 @@
+{
+    {"name": "Muneeb Ahmed",
+    "gender": "Male",
+    "age": "22",
+    "experience": "3",
+    "skills": ["laravel", "sql", "api_integration", "react-native"],
+    "portfolio": [{"name": "property", "description": "Used Zillow Api", "languages": ["laravel", "cURL"]}],
+    "last_degree": "BSCS"},
+
+    {
+        "name": "DevSinc",
+        "no_of_employees": 1300,
+        "location": "I-10/3",
+        "domain": "Web3 Developers Company"
+    }
+}
+
